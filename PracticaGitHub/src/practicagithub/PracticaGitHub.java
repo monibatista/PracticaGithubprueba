@@ -6,7 +6,8 @@ package practicagithub;
 
 /**
  *
- * @author Johanna
+ * @author Johanna Duarte
+ * @author Kary Bonilla
  */
 public class PracticaGitHub {
 
