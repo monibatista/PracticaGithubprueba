@@ -9,6 +9,7 @@ package practicagithub;
  * @author Johanna Duarte
  * @author Kary Bonilla
  * @author Naretza Ovalles
+ * @author Monica Batista
  */
 public class PracticaGitHub {
 
